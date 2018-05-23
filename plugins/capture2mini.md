@@ -1,6 +1,6 @@
 # capture2mini
 
-*Author: Ruthgul*
+*Author: Ruthgul*<br />
 *Miniwindow code adapted from Fiendish's / Enelya's chat capture plugins*
 
 ### Miniwindow for channels captures
