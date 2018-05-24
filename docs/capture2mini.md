@@ -28,6 +28,5 @@
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/2
 
 #### Screenshots:
-
 ![screenshot-captures](assets/images/capture2mini_1.png)
 
