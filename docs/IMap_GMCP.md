@@ -46,6 +46,7 @@
 * ~~**imap showlocation** \<location> [text]~~
   > ~~Show a marker on the mini-map indicating the target location (limit 1). This alias requires a full location name. The marker is non-persistent and will vanish once your player moves. The default text for the marker is `x`.~~
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/4<br />
+  > https://github.com/vertically-impaired/mm_plugin_documentation/issues/5<br />
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/6
 
 * **imap showtext** \<x, y, color, text>
@@ -56,7 +57,5 @@
 
 #### Screenshots:
 ![screenshot-captures](assets/images/imap_gmcp_1.png)
-
-![screenshot-captures](assets/images/imap_gmcp_2.png)
 
 ![screenshot-captures](assets/images/imap_gmcp_3.png)
