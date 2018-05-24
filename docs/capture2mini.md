@@ -29,5 +29,5 @@
 
 #### Screenshots:
 
-![screenshot-captures](docs/assets/images/capture2mini_1.png)
+![screenshot-captures](assets/images/capture2mini_1.png)
 
