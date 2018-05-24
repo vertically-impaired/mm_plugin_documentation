@@ -32,7 +32,7 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 * ~~[terrain_o_vision](docs/terrain_o_vision.md)~~
 * ~~[vitals_bars_v2](docs/vitals_bars_v2.md)~~
 * ~~[vitals_changes](docs/vitals_changes.md)~~
-* [worth_mini](docs/worth_mini.md)
+* ~~[worth_mini](docs/worth_mini.md)~~
 
 ---
 
@@ -54,8 +54,8 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 * ~~[vi_starter_pack](docs/vi_starter_pack.md)~~
 
 **Disabled:**
-* [Trace_To_Notepad](docs/Trace_To_Notepad.md)
-* [vi_laptop_pack](docs/vi_laptop_pack.md)
+* ~~[Trace_To_Notepad](docs/Trace_To_Notepad.md)~~
+* ~~[vi_laptop_pack](docs/vi_laptop_pack.md)~~
 
 ---
 
@@ -78,12 +78,14 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 * ~~[detect_globals](docs/detect_globals.md)~~
 
 **VI Only:**
-* ~~[accelerators](docs/accelerators.md)~~
-* ~~[crystal_map_to_clipboard](docs/crystal_map_to_clipboard.md)~~
-* ~~[faux_sextant](docs/faux_sextant.md)~~
-* ~~[meh_filters](docs/meh_filters.md)~~
-* ~~[play_sounds](docs/play_sounds.md)~~
-* ~~[sbrief](docs/sbrief.md)~~
+* ~~~~[accelerators](docs/accelerators.md)~~~~
+* ~~~~[crystal_map_to_clipboard](docs/crystal_map_to_clipboard.md)~~~~
+* ~~~~[faux_sextant](docs/faux_sextant.md)~~~~
+* ~~~~[meh_filters](docs/meh_filters.md)~~~~
+* ~~~~[play_sounds](docs/play_sounds.md)~~~~
+* ~~~~[sbrief](docs/sbrief.md)~~~~
+  
+  ~~~~
 
 **Disabled:**
 * ~~[affects_by_name](docs/affects_by_name.md)~~
@@ -105,3 +107,4 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 * ~~[ship_lookout](docs/ship_lookout.md)~~
 * ~~[tick](docs/tick.md)~~
 * ~~[transport_kp](docs/transport_kp.md)~~
+
