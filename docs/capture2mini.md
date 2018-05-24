@@ -29,4 +29,5 @@
 
 #### Screenshots:
 
-![screenshot-captures](C:\data\repositories\materiamagica\plugin_documentation\docs\assets\images\capture2mini_1.png)
+![screenshot-captures](docs/assets/images/capture2mini_1.png)
+
