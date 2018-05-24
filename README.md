@@ -78,14 +78,12 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 * ~~[detect_globals](docs/detect_globals.md)~~
 
 **VI Only:**
-* ~~~~[accelerators](docs/accelerators.md)~~~~
-* ~~~~[crystal_map_to_clipboard](docs/crystal_map_to_clipboard.md)~~~~
-* ~~~~[faux_sextant](docs/faux_sextant.md)~~~~
-* ~~~~[meh_filters](docs/meh_filters.md)~~~~
-* ~~~~[play_sounds](docs/play_sounds.md)~~~~
-* ~~~~[sbrief](docs/sbrief.md)~~~~
-  
-  ~~~~
+* ~~[accelerators](docs/accelerators.md)~~
+* ~~[crystal_map_to_clipboard](docs/crystal_map_to_clipboard.md)~~
+* ~~[faux_sextant](docs/faux_sextant.md)~~
+* ~~[meh_filters](docs/meh_filters.md)~~
+* ~~[play_sounds](docs/play_sounds.md)~~
+* ~~[sbrief](docs/sbrief.md)~~
 
 **Disabled:**
 * ~~[affects_by_name](docs/affects_by_name.md)~~
@@ -107,4 +105,3 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 * ~~[ship_lookout](docs/ship_lookout.md)~~
 * ~~[tick](docs/tick.md)~~
 * ~~[transport_kp](docs/transport_kp.md)~~
-
