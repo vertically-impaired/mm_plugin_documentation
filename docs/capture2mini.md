@@ -16,14 +16,14 @@
 
 #### Aliases
 * ~~captures addblank [on|off]~~
-  > ~~Adds an extra blank line between messages (disabled by default).~~
+  > ~~Adds an extra blank line between messages (disabled by default).~~<br />
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/3
 * **captures mini [on|off]**
   > Shows or hides the captures mini-window (enabled by default).
 * **clear captures mini**
   > Clears the mini-window of its contents.:
 * ~~reset captures~~
-  > ~~Restores the default size~~.
-  > https://github.com/vertically-impaired/mm_plugin_documentation/issues/1
+  > ~~Restores the default size~~.<br />
+  > https://github.com/vertically-impaired/mm_plugin_documentation/issues/1<br />
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/2
 
