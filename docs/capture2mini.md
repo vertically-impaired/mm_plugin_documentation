@@ -27,3 +27,6 @@
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/1<br />
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/2
 
+#### Screenshots:
+
+![screenshot-captures](C:\data\repositories\materiamagica\plugin_documentation\docs\assets\images\capture2mini_1.png)
