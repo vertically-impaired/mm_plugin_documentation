@@ -2,10 +2,10 @@
 
 *Author: Ruthgul*<br />
 
-### A visual mini-map for towns and the wilds
+### A visual mini-map for the wilds
 ---
 #### Features:
-* A visual map of the Alyrian wilds including the overworld, ethereal plane, and the underground. A customizable image marks your current location.
+* A visual map of the wilds including the overworld, ethereal plane, and the underground. A customizable image marks your current location.
 * Additional support for a destination icon and text labels.
 * Automatic swapping of the map to highlight ship-to-ship PVP areas while sailing.
 
