@@ -5,8 +5,8 @@
 ### A visual mini-map for towns and the wilds
 ---
 #### Features:
-* Places an icon on a map, showing your current location.
-* Also lets you add a secondary, "destination" icon, and text labels.
+* A visual map of all the Alyrian planes including the overworld, ethereal plane, and the underground. A customizable image marks your current location.
+* Additional support for a destination icon and text labels.
 
 #### Dependencies:
 * MM_GMCP_Handler.xml [f67c4339ed0591a5b010d05b]
@@ -45,7 +45,6 @@
 * ~~**imap showlocation** \<location> [text]~~
   > ~~Show a marker on the mini-map indicating the target location (limit 1). This alias requires a full location name. The marker is non-persistent and will vanish once your player moves. The default text for the marker is `x`.~~
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/4<br />
-  > https://github.com/vertically-impaired/mm_plugin_documentation/issues/5<br />
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/6
 
 * **imap showtext** \<x, y, color, text>
