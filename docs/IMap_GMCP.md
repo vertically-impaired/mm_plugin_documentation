@@ -42,8 +42,11 @@
 * **imap show**
   > Sets the map mini-map window to visible.
 
-* ~~**imap showlocation** <location> [marker text]~~
+* ~~**imap showlocation** <location> [text]~~
   > ~~Show a marker on the mini-map indicating the target location (limit 1). This alias requires a full location name. The marker is non-persistent and will vanish once your player moves. The default text for the marker is `x`.~~
+  > https://github.com/vertically-impaired/mm_plugin_documentation/issues/4
+  > https://github.com/vertically-impaired/mm_plugin_documentation/issues/5
+  > https://github.com/vertically-impaired/mm_plugin_documentation/issues/6
 
 * **imap showtext** <x, y, color, text>
   > Sets a label on the mini-map (unlimited) with the given text. This label is non-persistent and will vanish once your player moves.
