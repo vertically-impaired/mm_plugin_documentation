@@ -17,12 +17,41 @@
 #### Aliases:
 * **capture** \<channel>
   > Start capturing the target channel.
-  > | Supported Channels: |||||
-  > | --- |||||
-  > | alliance | aucverb | irc | page | talk |
-  > | announce | clan | ircverb | relay | tell |
-  > | archon | form | notify | say | yell |
-  > | auction | guide | novice | shout | |
+  > <table>
+  >    <tr>
+  >       <td colspan="5">Supported Channels:</td>
+  >    </tr>
+  >    <tr>
+  >       <td>alliance</td>
+  >       <td>announce</td>
+  >       <td>archon</td>
+  >       <td>auction</td>
+  >    </tr>
+  >    <tr>
+  >       <td>aucverb</td>
+  >       <td>clan</td>
+  >       <td>form</td>
+  >       <td>guide</td>
+  >    </tr>
+  >    <tr>
+  >       <td>irc</td>
+  >       <td>ircverb</td>
+  >       <td>notify</td>
+  >       <td>novice</td>
+  >    </tr>
+  >    <tr>
+  >       <td>page</td>
+  >       <td>relay</td>
+  >       <td>say</td>
+  >       <td>shout</td>
+  >    </tr>
+  >    <tr>
+  >       <td>talk</td>
+  >       <td>tell</td>
+  >       <td>yell</td>
+  >       <td></td>
+  >    </tr>
+  > </table>
 
 * **capture relay** \<name>
   > Start capturing the target relay by name.
