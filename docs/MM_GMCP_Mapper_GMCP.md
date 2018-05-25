@@ -223,7 +223,7 @@
   > 
   > <table>
   >    <tr>
-  >       <td colspan="6">Terrain:</td>
+  >       <td colspan="5">Terrain:</td>
   >    </tr>
   >    <tr>
   >       <td>acid-pool</td>
@@ -285,6 +285,45 @@
   >       <td>underwater</td>
   >       <td>Unknown</td>
   >       <td>void</td>
+  >    </tr>
+  > </table>
+  >
+  > <table>
+  >    <tr>
+  >       <td colspan="5">Terrain Info:</td>
+  >    </tr>
+  >    <tr>
+  >       <td>acid</td>
+  >       <td>climbable</td>
+  >       <td>copper-mineable</td>
+  >       <td>diggable</td>
+  >       <td>drinkable-water</td>
+  >    </tr>
+  >    <tr>
+  >       <td>fire</td>
+  >       <td>fishable</td>
+  >       <td>freezing</td>
+  >       <td>hard</td>
+  >       <td>iron-mineable</td>
+  >    </tr>
+  >    <tr>
+  >       <td>nothing</td>
+  >       <td>plains</td>
+  >       <td>poison-gas</td>
+  >       <td>sailable</td>
+  >       <td>salt-mineable</td>
+  >    </tr>
+  >    <tr>
+  >       <td>shallow</td>
+  >       <td>sheltered</td>
+  >       <td>silver-mineable</td>
+  >       <td>slippery</td>
+  >       <td>swimmable</td>
+  >    </tr>
+  >    <tr>
+  >       <td>underwater</td>
+  >       <td>Unknown</td>
+  >       <td>wooded</td>
   >    </tr>
   > </table>
 
