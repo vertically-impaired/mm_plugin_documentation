@@ -12,7 +12,6 @@
 #### Dependencies:
 * generic_miniwindow.lua
 * capture2dworld.xml [b2772cad800b33a6073d9377]
-  > See [capture2dworld help] for additional options.
 
 #### Aliases:
 * ~~captures addblank [on|off]~~
@@ -26,6 +25,7 @@
   > ~~Restores the default size~~.<br />
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/1<br />
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/2
+> See [capture2dworld](capture2dworld.md) for additional options.
 
 #### Screenshots:
 ![screenshot-captures](assets/images/capture2mini_1.png)

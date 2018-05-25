@@ -8,7 +8,7 @@
 * Captures are made to an invisible 'dummy' world that is invisible to the user.
 * Captures can are broadcast to other plugins which can display the messages.
 * Original colors are preserved.
-* Filters can be applied for both PCs and NPCs
+* Filters can be applied for both PCs and NPCs.
 * Supports clan chat talk, alliance talk, form talk, public channels (such as relays) and more.
 
 #### Dependencies:
