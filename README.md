@@ -67,7 +67,7 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 * [bazaar_walk](docs/bazaar_walk.md)
 * [capture2dworld](docs/capture2dworld.md)
 * [global_vars](docs/global_vars.md)
-* ~~[MM_GMCP_handler](docs/MM_GMCP_handler.md)~~
+* [MM_GMCP_handler](docs/MM_GMCP_handler.md)
 * ~~[MM_GMCP_Mapper_GMCP](docs/MM_GMCP_Mapper_GMCP.md)~~
 * ~~[msp_lua](docs/msp_lua.md)~~
 * ~~[plugins_updater_v2](docs/plugins_updater_v2.md)~~
