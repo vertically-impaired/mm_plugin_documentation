@@ -11,7 +11,7 @@
 * speedwalk_manager_gmcp_p2.xml [71b23c59cf79acc8521fc4a9]
 
 #### Aliases:
-* ~~reset main~~
+* **bwalk** [clan | player]
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/7
 
 #### Screenshots:
