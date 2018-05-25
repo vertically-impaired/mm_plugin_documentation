@@ -22,3 +22,4 @@
 get_global_var(string name) : string
 set_global_var(string name, string value) : void
 ```
+
