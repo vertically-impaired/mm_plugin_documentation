@@ -10,15 +10,12 @@
 * GMCP-driven auto-mapper and database.
 
 #### Dependencies:
-
-- mm_mapper.lua
-- MM_GMCP_Handler.xml [f67c4339ed0591a5b010d05b]
-
-- Client output must convert IAC EOR/GA to newline
-- Set SHOW-EXISTS must be set to ON in the game (enabled by default)
+* mm_mapper.lua
+* MM_GMCP_Handler.xml [f67c4339ed0591a5b010d05b]
+* Client output must convert IAC EOR/GA to newline
+* Set SHOW-EXISTS must be set to ON in the game (enabled by default)
 
 #### Aliases:
-
 * **mapper adjacent** \<room_name>
   > Display a list of rooms adjacent to the target room by name.
 
