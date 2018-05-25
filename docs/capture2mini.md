@@ -29,4 +29,3 @@
 
 #### Screenshots:
 ![screenshot-captures](assets/images/capture2mini_1.png)
-
