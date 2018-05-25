@@ -223,7 +223,7 @@
   > 
   > <table>
   >    <tr>
-  >       <td colspan="5">Terrain:</td>
+  >       <td colspan="6">Terrain:</td>
   >    </tr>
   >    <tr>
   >       <td>city street</td>
