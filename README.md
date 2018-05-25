@@ -7,7 +7,7 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 
 ### Standard Plugins
 
-*Bundled only with both the standard client*
+*Bundled only with the standard client*
 
 **Enabled by default:**
 * [capture2mini](docs/capture2mini.md)
