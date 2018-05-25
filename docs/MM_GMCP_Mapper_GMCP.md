@@ -145,11 +145,11 @@
   >       <td>ne</td>
   >       <td>se</td>
   >       <td>nw<td>
-  >       <td>sw<td>
-  >       <td>u<td>
-  >       <td>d<td>
-  >       <td>tprt<td>
-  >       <td>prtl<td>
+  >       <td>sw</td>
+  >       <td>u</td>
+  >       <td>d</td>
+  >       <td>tprt</td>
+  >       <td>prtl</td>
   >    </tr>
   > </table>
 
