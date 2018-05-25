@@ -158,7 +158,7 @@
   > <table>
   >    <tr>
   >       <td colspan="5">Flags:</td>
-  >    </tr><tr>  >    <tr>
+  >    </tr>
   >       <td>anti-magic</td>
   >       <td>dark</td>
   >       <td>disorient</td>
