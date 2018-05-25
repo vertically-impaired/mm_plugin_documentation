@@ -62,7 +62,7 @@
 
 [//]: # // Mini-map screenshot //
 
-[//]: # Player position: 54, 42
+[//]: # (Player position: 54, 42)
 
 [//]: # imap icon cross
 
