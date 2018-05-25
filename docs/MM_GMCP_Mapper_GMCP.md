@@ -403,6 +403,6 @@
 
 #### Screenshots:
 
-![screenshot-captures](assets/images/mm_gmcp_mapper_gmcp_1.png) &nbsp;&nbsp;&nbsp; ![screenshot-captures](assets/images/mm_gmcp_mapper_gmcp_2.png)
+![screenshot-captures](assets/images/mm_gmcp_mapper_gmcp_1.png) &nbsp;&nbsp; ![screenshot-captures](assets/images/mm_gmcp_mapper_gmcp_2.png)
 
 ![screenshot-captures](assets/images/mm_gmcp_mapper_gmcp_3.png)
