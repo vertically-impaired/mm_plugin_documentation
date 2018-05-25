@@ -12,7 +12,6 @@
 
 #### Aliases:
 * **bwalk** [clan | player]
-  > https://github.com/vertically-impaired/mm_plugin_documentation/issues/7
 
 #### Screenshots:
 
