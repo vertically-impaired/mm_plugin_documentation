@@ -135,7 +135,7 @@
   > Add an exit to the mapper database for the current room or for a target room by its unique identifier.
   > <table>
   >    <tr>
-  >       <td colspan="2">Directions:</td>
+  >       <td colspan="12">Directions:</td>
   >    </tr>
   >    <tr>
   >       <td>n</td>
@@ -144,14 +144,12 @@
   >       <td>e</td>
   >       <td>ne</td>
   >       <td>se</td>
-  >    </tr>
-  >    <tr>
-  >       <td>nw</td>
-  >       <td>sw</td>
-  >       <td>u</td>
-  >       <td>d</td>
-  >       <td>tprt</td>
-  >       <td>prtl</td>
+  >       <td>nw<td>
+  >       <td>sw<td>
+  >       <td>u<td>
+  >       <td>d<td>
+  >       <td>tprt<td>
+  >       <td>prtl<td>
   >    </tr>
   > </table>
 
