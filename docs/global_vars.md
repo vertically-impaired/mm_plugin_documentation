@@ -19,4 +19,5 @@
 
 #### Public Interfaces:
 ```get_global_var( string name) : string
-set_global_var( string name, string value) : void```
+set_global_var( string name, string value) : void
+```
