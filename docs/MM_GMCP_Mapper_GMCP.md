@@ -144,7 +144,7 @@
   >       <td>e</td>
   >       <td>ne</td>
   >       <td>se</td>
-  >       <td>nw<td>
+  >       <td>nw</td>
   >       <td>sw</td>
   >       <td>u</td>
   >       <td>d</td>
