@@ -158,8 +158,7 @@
   > <table>
   >    <tr>
   >       <td colspan="5">Flags:</td>
-  >    </tr>
-  >    <tr>
+  >    </tr><tr>  >    <tr>
   >       <td>anti-magic</td>
   >       <td>dark</td>
   >       <td>disorient</td>
@@ -206,16 +205,16 @@
   >       <td>player-kill-neutral</td>
   >       <td>private</td>
   >       <td>psychotic-combat</td>
+  >       <td>reinforced</td>
   >    </tr>
   >    <tr>
-  >       <td>reinforced</td>
   >       <td>safe</td>
   >       <td>silence</td>
   >       <td>solitary</td>
   >       <td>tangle-vine</td>
+  >       <td>thunderstorm</td>
   >    </tr>
   >    <tr>
-  >       <td>thunderstorm</td>
   >       <td>Unknown</td>
   >       <td>vanishing-items</td>
   >       <td>windy</td>
