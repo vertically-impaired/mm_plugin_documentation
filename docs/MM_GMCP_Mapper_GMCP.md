@@ -231,34 +231,36 @@
   >       <td>grassy field</td>
   >       <td>light forest</td>
   >       <td>dense forest</td>
-  >       <td>paved road</td>
   >    </tr>
   >    <tr>
+  >       <td>paved road</td>
   >       <td>dusty road</td>
   >       <td>shallow water</td>
   >       <td>plain</td>
   >       <td>dungeon</td>
-  >       <td>slippery floor</td>
-  >       <td>stream</td>
   >    </tr>
   >    <tr>
+  >       <td>slippery floor</td>
+  >       <td>stream</td>
   >       <td>mountainous</td>
   >       <td>swamp</td>
   >       <td>rocky ground</td>
+  >    </tr>
+  >    <tr>
   >       <td>air</td>
   >       <td>deep water</td>
   >       <td>beach</td>
-  >    </tr>
-  >    <tr>
   >       <td>underwater</td>
   >       <td>hay-ground</td>
+  >    </tr>
+  >    <tr>
   >       <td>hills</td>
   >       <td>cliff</td>
   >       <td>chasm</td>
   >       <td>mossy ground</td>
+  >       <td>ice</td>
   >    </tr>
   >    <tr>
-  >       <td>ice</td>
   >       <td>glacier</td>
   >       <td>trail</td>
   >       <td>gravel road</td>
@@ -271,17 +273,17 @@
   >       <td>snow</td>
   >       <td>void</td>
   >       <td>jungle</td>
-  >       <td>salt water</td>
   >    </tr>
   >    <tr>
+  >       <td>salt water</td>
   >       <td>craggy mountain</td>
   >       <td>sheer mountain</td>
   >       <td>foothills</td>
   >       <td>acid-pool</td>
-  >       <td>bridge</td>
-  >       <td>fresh-water-swimmable</td>
   >    </tr>
   >    <tr>
+  >       <td>bridge</td>
+  >       <td>fresh-water-swimmable</td>
   >       <td>Unknown</td>
   >    </tr>
   > </table>
