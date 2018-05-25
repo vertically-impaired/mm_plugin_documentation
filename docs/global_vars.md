@@ -18,6 +18,7 @@
   > List the contents of all variables shared by this plugin.
 
 #### Public Interfaces:
-```get_global_var( string name) : string
-set_global_var( string name, string value) : void
+```
+get_global_var(string name) : string
+set_global_var(string name, string value) : void
 ```
