@@ -226,65 +226,65 @@
   >       <td colspan="6">Terrain:</td>
   >    </tr>
   >    <tr>
+  >       <td>acid-pool</td>
+  >       <td>air</td>
+  >       <td>beach</td>
+  >       <td>bridge</td>
+  >       <td>chasm</td>
+  >    </tr>
+  >    <tr>
   >       <td>city street</td>
-  >       <td>indoors</td>
-  >       <td>grassy field</td>
-  >       <td>light forest</td>
+  >       <td>cliff</td>
+  >       <td>craggy mountain</td>
+  >       <td>deep water</td>
   >       <td>dense forest</td>
   >    </tr>
   >    <tr>
-  >       <td>paved road</td>
-  >       <td>dusty road</td>
-  >       <td>shallow water</td>
-  >       <td>plain</td>
+  >       <td>desert</td>
   >       <td>dungeon</td>
-  >    </tr>
-  >    <tr>
-  >       <td>slippery floor</td>
-  >       <td>stream</td>
-  >       <td>mountainous</td>
-  >       <td>swamp</td>
-  >       <td>rocky ground</td>
-  >    </tr>
-  >    <tr>
-  >       <td>air</td>
-  >       <td>deep water</td>
-  >       <td>beach</td>
-  >       <td>underwater</td>
-  >       <td>hay-ground</td>
-  >    </tr>
-  >    <tr>
-  >       <td>hills</td>
-  >       <td>cliff</td>
-  >       <td>chasm</td>
-  >       <td>mossy ground</td>
-  >       <td>ice</td>
+  >       <td>dusty road</td>
+  >       <td>foothills</td>
+  >       <td>fresh-water-swimmable</td>
   >    </tr>
   >    <tr>
   >       <td>glacier</td>
-  >       <td>trail</td>
+  >       <td>grassy field</td>
   >       <td>gravel road</td>
-  >       <td>savannah</td>
-  >       <td>lava</td>
+  >       <td>hay-ground</td>
+  >       <td>hills</td>
   >    </tr>
   >    <tr>
-  >       <td>desert</td>
-  >       <td>underwater-ground</td>
-  >       <td>snow</td>
-  >       <td>void</td>
+  >       <td>ice</td>
+  >       <td>indoors</td>
   >       <td>jungle</td>
+  >       <td>lava</td>
+  >       <td>light forest</td>
+  >    </tr>
+  >    <tr>
+  >       <td>mossy ground</td>
+  >       <td>mountainous</td>
+  >       <td>paved road</td>
+  >       <td>plain</td>
+  >       <td>rocky ground</td>
   >    </tr>
   >    <tr>
   >       <td>salt water</td>
-  >       <td>craggy mountain</td>
+  >       <td>savannah</td>
+  >       <td>shallow water</td>
   >       <td>sheer mountain</td>
-  >       <td>foothills</td>
-  >       <td>acid-pool</td>
+  >       <td>slippery floor</td>
   >    </tr>
   >    <tr>
-  >       <td>bridge</td>
-  >       <td>fresh-water-swimmable</td>
+  >       <td>snow</td>
+  >       <td>stream</td>
+  >       <td>swamp</td>
+  >       <td>trail</td>
+  >       <td>underwater-ground</td>
+  >    </tr>
+  >    <tr>
+  >       <td>underwater</td>
   >       <td>Unknown</td>
+  >       <td>void</td>
   >    </tr>
   > </table>
 
