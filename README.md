@@ -14,7 +14,7 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 * [IMap_GMCP](docs/IMap_GMCP.md)
 * [switch_maps](docs/switch_maps.md)
 * [tutorial](docs/tutorial.md)
-* ~~[world_mini](docs/world_mini.md)~~
+* [world_mini](docs/world_mini.md)
 
 **Disabled:**
 * ~~[clocks](docs/clocks.md)~~
