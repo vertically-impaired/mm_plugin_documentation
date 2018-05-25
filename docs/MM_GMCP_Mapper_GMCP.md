@@ -154,13 +154,101 @@
   > </table>
 
 * **mapper addroom** \<id> n:\<name> a:\<area> f:\<flags> t:\<terrain> ti:\<terraininfo>
-  > add a room
+  > Add a room to the mapper database by its unique identifier, name, area, flags, and other information.
+  > <table>
+  >    <tr>
+  >       <td colspan="4">terrain:</td>
+  >    </tr>  
+  >    <tr>
+  >       <td>anti-magic</td>
+  >       <td>dark</td>
+  >       <td>disorient</td>
+  >       <td>double-pk-damage</td>
+  >    </tr>
+  >    <tr>
+  >       <td>energy-draining</td>
+  >       <td>fear</td>
+  >       <td>grapple-required</td>
+  >       <td>half-pk-damage</td>
+  >    </tr>
+  >    <tr>
+  >       <td>high-regen</td>
+  >       <td>icy-conditions</td>
+  >       <td>indoors</td>
+  >       <td>low-regen</td>
+  >    </tr>
+  >    <tr>
+  >       <td>magic-unstable</td>
+  >       <td>momentary-darkness</td>
+  >       <td>no-area-affects</td>
+  >       <td>no-chat</td>
+  >    </tr>
+  >    <tr>
+  >       <td>no-disguise</td>
+  >       <td>no-emote</td>
+  >       <td>no-fear</td>
+  >       <td>no-form</td>
+  >    </tr>
+  >    <tr>
+  >       <td>no-mount</td>
+  >       <td>no-npcs</td>
+  >       <td>no-outside-noise</td>
+  >       <td>no-recall</td>
+  >    </tr>
+  >    <tr>
+  >       <td>no-regen</td>
+  >       <td>no-teleview</td>
+  >       <td>no-track</td>
+  >       <td>no-trap</td>
+  >    </tr>
+  >    <tr>
+  >       <td>no-unforming-allowed</td>
+  >       <td>player-kill-chaotic</td>
+  >       <td>player-kill-lawful</td>
+  >       <td>player-kill-neutral</td>
+  >    </tr>
+  >    <tr>
+  >       <td>private</td>
+  >       <td>psychotic-combat</td>
+  >       <td>reinforced</td>
+  >       <td>safe</td>
+  >    </tr>
+  >    <tr>
+  >       <td>silence</td>
+  >       <td>solitary</td>
+  >       <td>tangle-vine</td>
+  >       <td>thunderstorm</td>
+  >    </tr>
+  >    <tr>
+  >       <td>Unknown</td>
+  >       <td>vanishing-items</td>
+  >       <td>windy</td>
+  > </table>
 
 * **mapper delbm** [id]
-  > delete a bookmark
+  > Delete a bookmark from the mapper database.
 
 * **mapper delexit** \<direction> [f:\<id>]
-  > delete an exit from a room
+  > Delete an exit from the mapper database for the current room or for a target room by its unique identifier.
+  > <table>
+  >    <tr>
+  >       <td colspan="12">Directions:</td>
+  >    </tr>
+  >    <tr>
+  >       <td>n</td>
+  >       <td>e</td>
+  >       <td>s</td>
+  >       <td>e</td>
+  >       <td>ne</td>
+  >       <td>se</td>
+  >       <td>nw</td>
+  >       <td>sw</td>
+  >       <td>u</td>
+  >       <td>d</td>
+  >       <td>tprt</td>
+  >       <td>prtl</td>
+  >    </tr>
+  > </table>
 
 * **mapper delexits** \<id>
   > delete all exits from a room
