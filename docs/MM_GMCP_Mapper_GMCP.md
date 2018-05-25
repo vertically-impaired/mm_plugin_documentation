@@ -157,33 +157,31 @@
   > Add a room to the mapper database by its unique identifier, name, area, flags, and other information.
   > <table>
   >    <tr>
-  >       <td colspan="4">terrain:</td>
-  >    </tr>  
+  >       <td colspan="5">Flags:</td>
+  >    </tr>
   >    <tr>
   >       <td>anti-magic</td>
   >       <td>dark</td>
   >       <td>disorient</td>
   >       <td>double-pk-damage</td>
+  >       <td>energy-draining</td>
   >    </tr>
   >    <tr>
-  >       <td>energy-draining</td>
   >       <td>fear</td>
   >       <td>grapple-required</td>
   >       <td>half-pk-damage</td>
-  >    </tr>
-  >    <tr>
   >       <td>high-regen</td>
   >       <td>icy-conditions</td>
-  >       <td>indoors</td>
-  >       <td>low-regen</td>
   >    </tr>
   >    <tr>
+  >       <td>indoors</td>
+  >       <td>low-regen</td>
   >       <td>magic-unstable</td>
   >       <td>momentary-darkness</td>
   >       <td>no-area-affects</td>
-  >       <td>no-chat</td>
   >    </tr>
   >    <tr>
+  >       <td>no-chat</td>
   >       <td>no-disguise</td>
   >       <td>no-emote</td>
   >       <td>no-fear</td>
@@ -194,35 +192,34 @@
   >       <td>no-npcs</td>
   >       <td>no-outside-noise</td>
   >       <td>no-recall</td>
+  >       <td>no-regen</td>
   >    </tr>
   >    <tr>
-  >       <td>no-regen</td>
   >       <td>no-teleview</td>
   >       <td>no-track</td>
   >       <td>no-trap</td>
-  >    </tr>
-  >    <tr>
   >       <td>no-unforming-allowed</td>
   >       <td>player-kill-chaotic</td>
+  >    </tr>
+  >    <tr>
   >       <td>player-kill-lawful</td>
   >       <td>player-kill-neutral</td>
-  >    </tr>
-  >    <tr>
   >       <td>private</td>
   >       <td>psychotic-combat</td>
-  >       <td>reinforced</td>
-  >       <td>safe</td>
   >    </tr>
   >    <tr>
+  >       <td>reinforced</td>
+  >       <td>safe</td>
   >       <td>silence</td>
   >       <td>solitary</td>
   >       <td>tangle-vine</td>
-  >       <td>thunderstorm</td>
   >    </tr>
   >    <tr>
+  >       <td>thunderstorm</td>
   >       <td>Unknown</td>
   >       <td>vanishing-items</td>
   >       <td>windy</td>
+  >    </tr>
   > </table>
 
 * **mapper delbm** [id]
