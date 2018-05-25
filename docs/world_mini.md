@@ -1,6 +1,6 @@
 # world_mini
 
-*Author: Ruthgul*<br />
+*Author: Fiendish, Lasher, Ruthgul*<br />
 
 ### A visual mini-map for towns and dungeons
 ---
