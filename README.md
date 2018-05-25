@@ -12,7 +12,7 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 **Enabled by default:**
 * [capture2mini](docs/capture2mini.md)
 * [IMap_GMCP](docs/IMap_GMCP.md)
-* ~~[switch_maps](docs/switch_maps.md)~~
+* [switch_maps](docs/switch_maps.md)
 * ~~[tutorial](docs/tutorial.md)~~
 * ~~[world_mini](docs/world_mini.md)~~
 

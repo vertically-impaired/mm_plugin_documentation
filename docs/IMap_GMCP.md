@@ -13,7 +13,7 @@
 * MM_GMCP_Handler.xml [f67c4339ed0591a5b010d05b]
 * Client output must convert IAC EOR/GA to newline
 
-#### Aliases
+#### Aliases:
 * **imap dest** \<x, y>
 * **imap dest** \<on | off>
   > Draw a reference guide for a target world coordinate form of an absolute position of `x, y`. The guide will take the form of an arrow on the mini-map which can be explicitly shown or hidden with the parameters `on` or `off`.
