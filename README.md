@@ -64,7 +64,7 @@ Documentation for Materia Magica Plugins, sorted by bundle type and default enab
 *Bundled with both the standard and non-VI clients*
 
 **Enabled by default:**
-* ~~[bazaar_walk](docs/bazaar_walk.md)~~
+* [bazaar_walk](docs/bazaar_walk.md)
 * ~~[capture2dworld](docs/capture2dworld.md)~~
 * ~~[global_vars](docs/global_vars.md)~~
 * ~~[MM_GMCP_handler](docs/MM_GMCP_handler.md)~~
