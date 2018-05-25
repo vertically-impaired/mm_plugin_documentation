@@ -14,7 +14,7 @@
 * capture2dworld.xml [b2772cad800b33a6073d9377]
   > See [capture2dworld help] for additional options.
 
-#### Aliases
+#### Aliases:
 * ~~captures addblank [on|off]~~
   > ~~Adds an extra blank line between messages (disabled by default).~~<br />
   > https://github.com/vertically-impaired/mm_plugin_documentation/issues/3
