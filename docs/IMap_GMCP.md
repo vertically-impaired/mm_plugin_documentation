@@ -60,10 +60,10 @@
 
 ![screenshot-captures](assets/images/imap_gmcp_3.png)
 
-[//]: # (// Mini-map screenshot //)
-[//]: # (Player position: 54, 42)
-[//]: # (imap icon cross)
-[//]: # (imap dest 30,25)
-[//]: # (imap label 69, 33, yellow,* Crab boss HERE!)
-[//]: # (imap showtext 15, 70, white, * showtext label)
-[//]: # (imap showtext 20, 75, orange, * showtext label)
+[//]: # "// Mini-map screenshot //"
+[//]: # "Player position: 54, 42"
+[//]: # "imap icon cross"
+[//]: # "imap dest 30,25"
+[//]: # "imap label 69, 33, yellow,* Crab boss HERE!"
+[//]: # "imap showtext 15, 70, white, * showtext label"
+[//]: # "imap showtext 20, 75, orange, * showtext label"
