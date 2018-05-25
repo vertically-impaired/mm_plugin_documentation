@@ -220,6 +220,73 @@
   >       <td>windy</td>
   >    </tr>
   > </table>
+  > 
+  > <table>
+  >    <tr>
+  >       <td colspan="5">Terrain:</td>
+  >    </tr>
+  >    <tr>
+  >       <td>city street</td>
+  >       <td>indoors</td>
+  >       <td>grassy field</td>
+  >       <td>light forest</td>
+  >       <td>dense forest</td>
+  >    </tr>
+  >    <tr>
+  >       <td>paved road</td>
+  >       <td>dusty road</td>
+  >       <td>shallow water</td>
+  >       <td>plain</td>
+  >       <td>dungeon</td>
+  >    </tr>
+  >    <tr>
+  >       <td>slippery floor</td>
+  >       <td>stream</td>
+  >       <td>mountainous</td>
+  >       <td>swamp</td>
+  >       <td>rocky ground</td>
+  >    </tr>
+  >    <tr>
+  >       <td>air</td>
+  >       <td>deep water</td>
+  >       <td>beach</td>
+  >       <td>underwater</td>
+  >       <td>hay-ground</td>
+  >    </tr>
+  >    <tr>
+  >       <td>hills</td>
+  >       <td>cliff</td>
+  >       <td>chasm</td>
+  >       <td>mossy ground</td>
+  >       <td>ice</td>
+  >    </tr>
+  >    <tr>
+  >       <td>glacier</td>
+  >       <td>trail</td>
+  >       <td>gravel road</td>
+  >       <td>savannah</td>
+  >       <td>lava</td>
+  >    </tr>
+  >    <tr>
+  >       <td>desert</td>
+  >       <td>underwater-ground</td>
+  >       <td>snow</td>
+  >       <td>void</td>
+  >       <td>jungle</td>
+  >    </tr>
+  >    <tr>
+  >       <td>salt water</td>
+  >       <td>craggy mountain</td>
+  >       <td>sheer mountain</td>
+  >       <td>foothills</td>
+  >       <td>acid-pool</td>
+  >    </tr>
+  >    <tr>
+  >       <td>bridge</td>
+  >       <td>fresh-water-swimmable</td>
+  >       <td>Unknown</td>
+  >    </tr>
+  > </table>
 
 * **mapper delbm** [id]
   > Delete a bookmark from the mapper database.
