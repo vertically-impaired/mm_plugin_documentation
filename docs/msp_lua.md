@@ -1,7 +1,7 @@
 # msp_lua
 
 *Author: Christof, Ruthgul*<br />
-*Adapted from Christof MSP plugin for MUSHclient*
+*Adapted from Christof's MSP plugin for Materia Magica*
 
 ### MSP (MUD Sound Protocol) emulation for Material Magica
 ---
