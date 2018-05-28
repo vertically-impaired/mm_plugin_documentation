@@ -151,7 +151,7 @@
   > </table>
 
 * **mapper addroom** \<id> n:\<name> a:\<area> f:\<flags> t:\<terrain> ti:\<terraininfo>
-  > Add a room to the mapper database by its unique identifier, name, area, flags, and other information.
+  > Add a room to the mapper database by its unique identifier, name, area, flags, and terrain information.
   > <table>
   >    <tr>
   >       <td colspan="5">Flags:</td>
@@ -348,55 +348,55 @@
   > </table>
 
 * **mapper delexits** \<id>
-  > delete all exits from a room
+  > Delete all exits for the target room from the mapper database.
 
 * **mapper delroom** \<id>
-  > delete a room
+  > Delete a room from the mapper database.
 
 * **mapper dt** [id]
-  > tag room as DT
+  > Toggle the deathtrap flag for the current or explicitly defined room by its unique identifier.
 
 * **mapper export area** \<name>
-  > exports a whole area
+  > Export the area matching the target name from the mapper database to a file.
 
 * **mapper export rooms** \<name>
-  > exports all rooms matching the name
+  > Export all rooms matching the target name  from the mapper database to a file.
 
 * **mapper no-speed** [id]
-  > tag room as no-speed
+  > Toggle the no-speed flag for the current or explicitly defined room by its unique identifier.
 
 * **mapper purge bookmarks**
-  > purge all non-vmap notes from the database
+  > Purge all non-vmap bookmarks from the mapper database.
 
 * **mapper purge clanhalls**
-  > purge clanhalls data from the database
+  > All clanhall rooms from the mapper database.
 
 * **mapper purge homes**
-  > purge player homes data from the database
+  > Purge all player home rooms from the mapper database.
 
 * **mapper rebuild lookup**
-  > rebuild the rooms_lookup table
+  > Rebuild the rooms_lookup table for the mapper database.
 
 * **mapper recreate database**
-  > copy data to a new database file
+  > Copy all information contained within the mapper database to a new file.
 
 * **mapper reset defaults**
-  > use to restore default settings, if necessary
+  > Reset the mapper database to its default settings.
 
 * **mapper roominfo** [id]
-  >  show info about a room
+  > Display a list of information about the current or target room by its unique identifier.
 
 * **mapper shop** [id]
-  > tag room as shop
+  > Toggle the shop flag for the current or explicitly defined room by its unique identifier.
 
 * **mapper show database mods** [on | off]
-  > toggle showing database updates on/off (on by default)
+  > Toggle or explicitly set the the notification of database updates. This feature is on by default.
 
 * **mapper trainer** [id]
-  > tag room as trainer
+  > Toggle the trainer flag for the current or explicitly defined room by its unique identifier.
 
 * **mapper trap** [id]
-  > tag room as trap
+  > Toggle the trap flag for the current or explicitly defined room by its unique identifier.
 
 #### Screenshots:
 
